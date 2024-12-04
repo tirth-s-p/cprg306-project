@@ -1,0 +1,23 @@
+/* styles/globals.css */
+
+body {
+    font-family: Arial, sans-serif; /* Default font family */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white; /* Background color for all pages */
+    color: black; /* Default font color for all pages */
+  }
+  
+  p, h1, h2, h3, h4, h5, h6, span, div, li, a {
+    color: black; /* Set default text color for all common elements */
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
